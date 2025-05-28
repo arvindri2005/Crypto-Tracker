@@ -61,8 +61,8 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
+    git clone https://github.com/arvindri2005/Crypto-Tracker
+    cd Crypto-Tracker
     ```
 
 2.  **Install dependencies:**
